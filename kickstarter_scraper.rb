@@ -11,4 +11,4 @@ def create_project_hash
   binding.pry
 end
 
-puts kickstarter
+create_project_hash
